@@ -58,7 +58,7 @@
   "gnetId": null,
   "graphTooltip": 0,
   "id": null,
-  "iteration": 1547215355938,
+  "iteration": 1547239185691,
   "links": [],
   "panels": [
     {
@@ -1511,5 +1511,5 @@
   "timezone": "",
   "title": "Docker Registry",
   "uid": "CoBSgj8iz",
-  "version": 19
+  "version": 21
 }
