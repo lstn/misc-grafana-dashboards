@@ -52,7 +52,7 @@
   "gnetId": null,
   "graphTooltip": 0,
   "id": null,
-  "iteration": 1547219476238,
+  "iteration": 1547228570743,
   "links": [],
   "panels": [
     {
@@ -1072,7 +1072,13 @@
   "refresh": "10s",
   "schemaVersion": 16,
   "style": "dark",
-  "tags": [],
+  "tags": [
+    "chartmuseum",
+    "docker",
+    "kubernetes",
+    "helm",
+    "internals"
+  ],
   "templating": {
     "list": [
       {
@@ -1169,5 +1175,5 @@
   "timezone": "",
   "title": "ChartMuseum",
   "uid": "NY0yTkwiz",
-  "version": 5
+  "version": 7
 }
