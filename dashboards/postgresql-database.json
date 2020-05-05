@@ -225,7 +225,7 @@
       "thresholds": "",
       "title": "Start Time",
       "type": "singlestat",
-      "valueFontSize": "110%",
+      "valueFontSize": "70%",
       "valueMaps": [
         {
           "op": "=",
