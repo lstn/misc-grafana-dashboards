@@ -215,7 +215,7 @@
       "tableColumn": "",
       "targets": [
         {
-          "expr": "process_start_time_seconds{release=\"$release\", instance=\"$instance\"} * 1000",
+          "expr": "pg_postmaster_start_time_seconds{release=\"$release\", instance=\"$instance\"} * 1000",
           "format": "time_series",
           "intervalFactor": 2,
           "legendFormat": "",
