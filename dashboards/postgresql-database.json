@@ -3066,7 +3066,7 @@
         "options": [],
         "query": "query_result(up{release=\"$release\"})",
         "refresh": 1,
-        "regex": "/.*instance=\"([^\"]+).*/",
+        "regex": "/.*instance=\"([^\"]+.*9187)/",
         "skipUrlSync": false,
         "sort": 1,
         "tagValuesQuery": "",
