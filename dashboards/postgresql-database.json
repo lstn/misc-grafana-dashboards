@@ -3064,7 +3064,7 @@
         "multi": false,
         "name": "instance",
         "options": [],
-        "query": "query_result(up{release=\"$release\"})",
+        "query": "query_result(pg_up{release=\"$release\"})",
         "refresh": 1,
         "regex": "/.*instance=\"([^\"]+).*/",
         "skipUrlSync": false,
