@@ -18,4 +18,4 @@ Links: [Grafana.com](https://grafana.com/dashboards/9622) | [JSON](/dashboards/c
 
 ![Image of PostgreSQL Database dashboard 1](/dashboards/images/postgres-database-1.png) ![Image of PostgreSQL Database dashboard 2](/dashboards/images/postgres-database-2.png)
 
-Links: [Grafana.com](https://grafana.com/dashboards/9628) | [JSON](/dashboards/postgres-database.json)
+Links: [Grafana.com](https://grafana.com/dashboards/9628) | [JSON](/dashboards/postgresql-database.json)
